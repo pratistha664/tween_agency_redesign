@@ -1,6 +1,6 @@
 # tween_agency_redesign
 # Task Name
-Website UI/UX Redesign using Figma 
+Website Redesign using Figma 
 ## Company Name
 CODTECH IT SOLUTIONS PVT.LTD
 # Name 
@@ -8,7 +8,9 @@ Pratistha Biswal
 ## Intern ID 
 CT04DN1147 
 ## Domain 
-20th May 2025 - 20th June 2025 
+UI/UX Design
+# Duration
+4 weeks
 ## Mentor
 Neela Santhosh Kumar 
 ## Description 
